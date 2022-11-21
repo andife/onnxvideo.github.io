@@ -241,7 +241,7 @@ h1 {
 }
 
 .badge {
-  background-color: #ffd343;
+  background-color: #e8f6ff;
   color: #2b5b84;
 }
 
@@ -275,7 +275,7 @@ h1 {
 .header__title i {
   font-weight: bold;
   font-style: italic;
-  color: #ffd343;
+  color: #000000;
 }
 
 .header__nav a {
@@ -309,7 +309,7 @@ h1 {
 }
 
 .header.pr-notice {
-  background-color: #FED343;
+  background-color: #0b92c9;
   color: #000;
   font-size: 16px;
   padding: 7px;
@@ -319,7 +319,7 @@ h1 {
 }
 
 .header.notice {
-  background-color: #FED343;
+  background-color: #0b92c9;
   color: #000;
   font-size: 16px;
   padding: 7px;
